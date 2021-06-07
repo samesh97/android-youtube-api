@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766943959049",
+    "firebase_url": "https://keen-hope-224307.firebaseio.com",
+    "project_id": "keen-hope-224307",
+    "storage_bucket": "keen-hope-224307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766943959049:android:4f6d6504c436e081",
+        "android_client_info": {
+          "package_name": "com.sba.slyoutubers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766943959049-fbp7ic912homr0b9nb17diip1pl6vf76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sba.slyoutubers",
+            "certificate_hash": "84974f3ae11224cb7d83a6f359f0e3cc96a54cb3"
+          }
+        },
+        {
+          "client_id": "766943959049-5mlhfenc0vjpg0uvjv50rjqj0lapknet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbjtUXWu6dCio1aQrdeb4iFHHV5zcQiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766943959049-5mlhfenc0vjpg0uvjv50rjqj0lapknet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
